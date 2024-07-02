@@ -1,5 +1,7 @@
-# Self-Study-Mechanical
+# Mechanical Engineering Notes
 
-This Repository is going to contain all of my personalized notes in Mechanical Engineering, including core fundamentals, and projects.
+Welcome to my Mechanical Engineering notes repository! This collection serves as a comprehensive guide for my self-study journey in Mechanical Engineering.
 
-Note: this is going to be a self study curriculum.
+# About
+
+This repository is a personalized collection of notes and projects that I have compiled while studying Mechanical Engineering independently. It is structured to help organize and document my learning process.
